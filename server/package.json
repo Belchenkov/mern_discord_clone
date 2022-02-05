@@ -1,0 +1,26 @@
+{
+  "name": "discord-api",
+  "version": "1.0.0",
+  "description": "Clone Discord App with MERN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Belchenkov/mern_discord_clone.git"
+  },
+  "keywords": [
+    "MERN",
+    "node.js",
+    "react.js",
+    "mongodb",
+    "express.js"
+  ],
+  "author": "Aleksey Belchenkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Belchenkov/mern_discord_clone/issues"
+  },
+  "homepage": "https://github.com/Belchenkov/mern_discord_clone#readme"
+}
